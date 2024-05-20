@@ -8,8 +8,6 @@ public class ContaTerminal {
         System.out.println("Digite o nome do titular: ");
         String nomeCliente = dadosIn.nextLine();
 
-        // dadosIn.nextLine(); // consumir o \n do nextLine anterior
-
         System.out.println("Digite o numero da agência: ");
         String numeroAgencia = dadosIn.nextLine();
 
